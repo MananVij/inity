@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #1e5bfa; 
+    padding: 3rem 10% 0;
+}
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 500;
+}
+.navbar-brand {
+    font-family: 'Archivo Black', sans-serif; 
+    font-size: 2rem; color: white;
+}
